@@ -1,0 +1,8 @@
+prefix=/home/student/workspace/catkin_aut4/install
+
+Name: turtle_control
+Description: Description of turtle_control
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
