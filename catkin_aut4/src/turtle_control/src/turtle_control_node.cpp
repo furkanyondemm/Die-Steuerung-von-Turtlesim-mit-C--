@@ -20,9 +20,9 @@ geometry_msgs::Twist turtle1, turtle2; // Linear and angular velocity in m/s
 geometry_msgs::Pose2D current_turtle1, current_turtle2; // Current x, y, and theta
 geometry_msgs::Pose2D desired_turtle1, desired_turtle2; // Desired x, y, and theta
 
-const double K_l = 0.5; // Für die linere Geschwindigkeit der Robeter
+const double K_l = 0.5; // Für die linere Geschwindigkeit der Roboter
  
-const double K_a = 0.5; // Für die Winkelsgeschwindigkeit der Robeter
+const double K_a = 0.5; // Für die Winkelsgeschwindigkeit der Roboter
  
 const double distanceTolerance = 0.1; 
  
